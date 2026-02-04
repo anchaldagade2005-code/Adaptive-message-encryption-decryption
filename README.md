@@ -24,16 +24,15 @@ A secure communication system designed using **AES-256 encryption** to ensure co
    ```bash
    git clone https://github.com/anchaldagade2005-code/Adaptive-message-encryption-decryption.git
 2.Navigate to the project directory
-cd Adaptive-message-encryption-decryption
+   cd Adaptive-message-encryption-decryption
 
 3. (Optional) Install dependencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Run the application
-python main.py
+   python main.py
 
-Repository Structure
-
+## 📁 Repository Structure
 main.py — Application entry point
 key_generator.py — Secure key generation logic
 secure_message.py — Encryption and decryption functions
@@ -48,6 +47,16 @@ It evaluates encryption strength, execution efficiency, and system reliability, 
 Secure message transmission
 Defense communication systems
 Academic cryptography projects
+
+## 📘 Learning Outcomes
+- Practical understanding of AES-256 encryption
+- Secure key generation and management
+- Modular Python design for security systems
+- Hands-on experience with cryptographic workflows
+
+## ⚠️ Disclaimer
+This project is developed for academic and learning purposes only.  
+It is not intended for real-world defense deployment without extensive security audits.
 
 👤 Author
 Anchal Vishal Dagade
