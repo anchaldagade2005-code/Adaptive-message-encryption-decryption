@@ -32,21 +32,23 @@ A secure communication system designed using **AES-256 encryption** to ensure co
 4. Run the application
    python main.py
 
-## 📁 Repository Structure
-main.py — Application entry point
-key_generator.py — Secure key generation logic
-secure_message.py — Encryption and decryption functions
-crypto_core.py / secure_app.py — Core cryptographic modules
+📁 Repository Structure
+- main.py — Application entry point  
+- key_generator.py — Secure key generation logic  
+- secure_message.py — Encryption and decryption functions  
+- crypto_core.py / secure_app.py — Core cryptographic modules  
+
 
 🔍 Project Overview
 This project demonstrates a secure message encryption–decryption pipeline using AES standards.
 It evaluates encryption strength, execution efficiency, and system reliability, making it suitable for academic and research use.
 
-🎯 Use Cases
 
-Secure message transmission
-Defense communication systems
-Academic cryptography projects
+🎯 Use Cases
+- Secure message transmission  
+- Defense communication systems  
+- Academic cryptography projects  
+
 
 ## 📘 Learning Outcomes
 - Practical understanding of AES-256 encryption
